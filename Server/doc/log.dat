@@ -1,0 +1,1 @@
+ERROR_1 : Data file error : model name line not in the pattern :Model_{model name}_{$price}_{optset size}
